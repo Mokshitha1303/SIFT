@@ -39,7 +39,7 @@
   
 <h2>View the Code</h2>
 <p>You can view the complete code on GitHub: 
-    <a href="https://github.com/yourusername/your-repository-name" target="_blank">GitHub Repository</a>
+    <a href="https://github.com/Mokshitha1303/SIFT/blob/main/SIFT.ipynb" target="_blank">GitHub Repository</a>
 </p>
 
   <h2>Sample Output</h2>
